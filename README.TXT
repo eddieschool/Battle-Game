@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project uses Java to create a turn based fighting game that utilizes user text inputs to
+choose different moves within a fight. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Battle Game 
+PURPOSE OF PROJECT: Aimed to help learn Java elements such as editing code that uses classes, understanding variables, using iterations, understanding scope, and dealing with randoms. 
+VERSION or DATE: September 2025
+HOW TO START THIS PROJECT: Open the file in BlueJ, click compile on the left, right click the Main class and choose: void main(String[] args)
+AUTHORS: Ed Kaake
+
