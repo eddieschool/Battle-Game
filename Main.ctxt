@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ is\ the\ main\ class.\ It\ creates\ 2\ fighter\ objects,\ then\ initiates\ a\r\n\ Battle\ between\ them.\ So\ fighter\ 1\ and\ fighter\ 2\ will\ continually\ take\r\n\ turns\ until\ one\ of\ their\ has\ healthPoints\ \=\ 0.\ \r\n\ Until\ then,\ it\ runs\ in\ a\ while(continuous)\ loop\ until\ battleOver\ \=\ true\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ that\ creates\ fighters,\ starts\ a\ battle,\ and\ then\ runs\r\n\ until\ a\ fighters\ health\ reaches\ 0\ or\ below\r\n
+numComments=2
